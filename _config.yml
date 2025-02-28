@@ -7,37 +7,37 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Irvine, US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yutong(Rainie) Song's playground"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yutong(Rainie) Song"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Yutong(Rainie) Song"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in Computer Science, focusing on trustworth LLM and AI in healthcare"
+  location         : "Irvine, CA, US"
+  employer         : "University of California, Irvine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yutons12@uci.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=jd3d7MYAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-1458-1809"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/RainieLLM"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  https://www.linkedin.com/jobs/?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.732549151385_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031531&mcid=6994434350142418944&cid=&gad_source=1&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWopE3vtZnI9bRMWS5IUaszwS0jDQ83SFe7pctCgFmAvhfh-nkuyp_EaAtNzEALw_wcB&gclsrc=aw.ds
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
