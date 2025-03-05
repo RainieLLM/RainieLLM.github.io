@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/tree.jpg"
+  avatar           : "/images/tree.jpg"
   name             : "Yutong(Rainie) Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science, focusing on trustworth LLM and AI in healthcare"
