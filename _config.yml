@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : IMG_4316.JPG"
+  avatar           : "/assets/images/IMG_4316.JPG"
   name             : "Yutong(Rainie) Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science, focusing on trustworth LLM and AI in healthcare"
@@ -282,6 +282,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # assets/images
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 
 # Sass/SCSS
