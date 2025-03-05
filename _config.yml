@@ -13,7 +13,7 @@ title                    : "Yutong(Rainie) Song's playground"
 title_separator          : "-"
 name                     : &name "Yutong(Rainie) Song"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rainiellm.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/IMG_4316.JPG"
+  avatar           : "images/tree.jpg"
   name             : "Yutong(Rainie) Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science, focusing on trustworth LLM and AI in healthcare"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/RainieLLM"
+  github           : "RainieLLM"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  https://www.linkedin.com/jobs/?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.732549151385_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031531&mcid=6994434350142418944&cid=&gad_source=1&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWopE3vtZnI9bRMWS5IUaszwS0jDQ83SFe7pctCgFmAvhfh-nkuyp_EaAtNzEALw_wcB&gclsrc=aw.ds
+  linkedin         :  "yutong-song-8129a6213"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

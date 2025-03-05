@@ -8,8 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Projects"
+    url: /research_project/
+
+
+  - title: "Technical Projects"
+    url: /tech_project/
 
   - title: "Teaching"
     url: /teaching/    

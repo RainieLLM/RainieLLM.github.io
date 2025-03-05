@@ -1,3 +1,3 @@
-This is Yutong's personal website. Please feel free to browse and contact me via ytsong21@gmail.com!
-  # 测试一下
+This is Yutong Song's personal website. Please feel free to browse and contact me via yutons12@uci.edu!
+
   
