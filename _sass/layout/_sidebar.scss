@@ -90,9 +90,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
-
+    max-width: 300px;  // 增加最大宽度
+    border-radius: 0;  // 将50%改为0，移除圆形效果，变为长方形
+    
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
