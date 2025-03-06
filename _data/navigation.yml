@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publication/
+    url: /publications/
 
   - title: "Research Projects"
     url: /research_project/
@@ -15,8 +15,12 @@ main:
   - title: "Technical Projects"
     url: /tech_project/
 
-  - title: "Teaching"
+  - title: "Working/Teaching Experiences"
+    url: /teaching/ 
+
+  - title: "Awards and Talks"
     url: /teaching/    
+        
     
   # - title: "Portfolio"
   #   url: /portfolio/

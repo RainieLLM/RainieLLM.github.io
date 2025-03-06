@@ -4,33 +4,67 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% endif %} -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Publications</title>
+    <style>
+        .publication-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        
+        .publication-list li {
+            margin-bottom: 15px;
+            padding-left: 20px;
+            text-indent: -20px;
+        }
+        
+        .publication-title {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>Publications</h2>
+    
+    <ul class="publication-list">
+        <li>
+            <span class="publication-title">MedSpeak: Knowledge Enhanced ASR Error Correction framework for Spoken Medical Question Answering.</span> 
+            Y. Song, C. Lyu, E. Khatibi P. Zhang, N. Dutt, A. Rahmani. In Submitted to Interspeech 2025.
+        </li>
+        
+        <li>
+            <span class="publication-title">DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care.</span> 
+            Y. Song, C. Lyu, P. Zhang, S. Brunswicker, N. Dutt, A. Rahmani. In AAAI Workshop 2025.
+        </li>
+        
+        <li>
+            <span class="publication-title">Establishing the Foundations of Emotional Intelligence in Care Companion Robots to Mitigate Agitation Among High-Risk Patients With Dementia: Protocol for an Empathetic Patient-Robot Interaction Study.</span> 
+            Nyamathi A et al. In JMIR Research Protocols 2024.
+        </li>
+        
+        <li>
+            <span class="publication-title">A Use-It-Or-Lose-It Economic VCG Auction Approach For NOMA Wireless Relay Networks.</span> 
+            Y. Song, K. M. K. Ramamoorthy, W. Wang, K. Sohraby. In IEEE COINS 2023.
+        </li>
+        
+        <li>
+            <span class="publication-title">Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach.</span> 
+            Y. Song, W. Wang, K. Sohraby. In IEEE CAMAD 2022 (The best paper award).
+        </li>
+        
+        <li>
+            <span class="publication-title">The identification of influential nodes based on structure similarity.</span> 
+            J. Zhao, Y. Song, F. Liu, Y. Deng. In Connection Science 2020.
+        </li>
+    </ul>
+</body>
+</html>
 
 
 
