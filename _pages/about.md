@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutong Song"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me 👋
 ======
-This is **Yutong Song**, a first-year PhD student at the University of California, Irvine. I am now living in Irvine with my cute cat [Hula](images/pet.jpg). You can easily contact me via emial: yutons12@uci.edu.
+This is **Yutong Song**, a first-year PhD student at the University of California, Irvine. I am now living in Irvine with my cute cat [Hula](images/pet.jpg).
 
  I am working in [Health SciTech Group](https://healthscitech.nursing.uci.edu/), under the mentorship of [Prof.Amir M. Rahmani](https://ics.uci.edu/~amirr1/) and [Prof.Nikil Dutt](https://ics.uci.edu/~dutt/). From Jan 2022 to Jun 2024, I was a PhD student major in computational science, studied jointly in UCI and SDSU. In SDSU, I did some works on wireless multimedia QoE/QoS and smart data pricing strategy with the supervision of [Prof.Wei Wang](https://cs.sdsu.edu/people/wei-wang/). During my undergraduate study in UESTC, I also had several works on information fusion, information entropy and uncertain information decision with the supervision of Prof.Yong Deng.
 
