@@ -36,3 +36,22 @@ Skill 📌
 - Web Technologies: React/Next.js, React Native, Spring Cloud, Node.js, Express.js, Redux, GraphQL, RESTful APIs, Vue.js, Angular, WebRTC
 - Database & Storage & Infrastructure: MongoDB, PostgreSQL, MySQL, Redis, Neo4j, InfluxDB, Amazon S3, Docker, Kubernetes, Kafka, WebSocket, GitHub Actions, AWS/GCP/Azure
 - AI/ML & Big Data: PyTorch, Spark, Hadoop, Machine Learning, Deep Learning, Large Language Models, Multi-modal Models, Speech Recognition, RAG, LLM agent
+
+
+Awards and Talks 🏆 
+======
+<table width="100%" border="0">
+  <tr>
+    <td align="left">ICS Fellowship</td>
+    <td align="right">UCI Donald Bren School of Information & Computer 2022 and 2024</td>
+  </tr>
+  <tr>
+    <td align="left">Presidential Graduate Research Fellowship</td>
+    <td align="right">SDSU 2022</td>
+  </tr>
+  <tr>
+    <td align="left">The Best Paper Award</td>
+    <td align="right">IEEE CAMAD 2022</td>
+  </tr>
+</table>
+
