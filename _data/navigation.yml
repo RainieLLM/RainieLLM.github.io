@@ -12,14 +12,14 @@ main:
     url: /research_project/
 
 
-  - title: "Technical Projects"
-    url: /tech_project/
+  # - title: "Technical Projects"
+  #   url: /tech_project/
 
-  - title: "Working/Teaching Experiences"
-    url: /teaching/ 
+  # - title: "Working/Teaching Experiences"
+  #   url: /teaching/ 
 
-  - title: "Awards and Talks"
-    url: /teaching/    
+  # - title: "Awards and Talks"
+  #   url: /teaching/    
         
     
   # - title: "Portfolio"
