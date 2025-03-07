@@ -12,8 +12,8 @@ main:
     url: /research_project/
 
 
-  # - title: "Technical Projects"
-  #   url: /tech_project/
+  - title: "Technical Projects"
+    url: /tech_project/
 
   # - title: "Working/Teaching Experiences"
   #   url: /teaching/ 

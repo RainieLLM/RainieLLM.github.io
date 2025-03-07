@@ -38,7 +38,7 @@ Skill 📌
 - AI/ML & Big Data: PyTorch, Spark, Hadoop, Machine Learning, Deep Learning, Large Language Models, Multi-modal Models, Speech Recognition, RAG, LLM agent
 
 
-Awards and Talks 🏆 
+Awards and Honors 🏆 
 ======
 <table width="100%" border="0">
   <tr>
