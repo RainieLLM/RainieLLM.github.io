@@ -1,0 +1,138 @@
+
+
+---
+layout: archive
+title: "Research projects"
+permalink: /research_project/
+author_profile: true
+---
+
+## Research
+
+<div class="research-container" style="display: flex; margin-bottom: 40px; align-items: flex-start;">
+  <div class="research-text" style="flex: 1; padding-right: 20px;">
+    <h2>Knowledge Enhanced ASR Error Correction for Spoken Medical Question Answering 🗣️</h2>
+    
+    <div class="abstract" style="margin-bottom: 15px;">
+      <h4 style="margin-bottom: 8px;">Abstract</h4>
+      <p style="text-align: justify;">
+        Spoken question answering (SQA) systems relying on automatic speech recognition (ASR) often struggle with accurately recognizing medical terminology. We present MedSpeak, a novel knowledge-enhanced retrieval augmented generation framework through a medical knowledge graph (KG) capturing semantic relationships and phonetic similarities between medical terms. A key innovation of our approach is the integration of multiple-choice text and question, which provide contextual information for searches in the KG and the retrieved information builds a comprehensive context for large language model learning and reasoning. Experimental results demonstrate that MedSpeak significantly improves the accuracy of medical term recognition and overall medical SQA performance compared to traditional cascade ASR systems.
+      </p>
+    </div>
+    
+    <div class="keywords" style="margin-bottom: 20px;">
+      <span style="font-weight: bold;">Keywords: </span>
+      <span>spoken question answering, retrieval augmented
+        generation, knowledge graphs, automatic speech recognition,
+        error correction</span>
+    </div>
+  </div>
+  
+  <div class="research-images" style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    <div class="example-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Example</h4>
+      <img src="images/projects/medspeak_exmaple.png" alt="Speech Dialogue Example" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+    
+    <div class="framework-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Framework</h4>
+      <img src="images/projects/medspeak_framework.png" alt="Speech Dialogue Framework" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="research-container" style="display: flex; margin-bottom: 40px; margin-top: 30px; align-items: flex-start;">
+  <div class="research-text" style="flex: 1; padding-right: 20px;">
+    <h2>RAG agent framwork for dementia care 🏥</h2>
+    
+    <div class="abstract" style="margin-bottom: 15px;">
+      <h4 style="margin-bottom: 8px;">Abstract</h4>
+      <p style="text-align: justify;"> 
+        Mild-stage dementia patients primarily experience two critical symptoms: severe memory loss and emotional instability. To address these challenges, we propose DEMENTIA-PLAN, an innovative retrieval-augmented generation framework that leverages large language models to enhance conversational support. Our model employs a multiple knowledge graph architecture, integrating various dimensional knowledge representations including daily routine graphs and life memory graphs. Through this multi-graph architecture, DEMENTIA-PLAN comprehensively addresses both immediate care needs and facilitates deeper emotional resonance through personal memories, helping stabilize patient mood while providing reliable memory support. Our notable innovation is the self-reflection planning agent, which systematically coordinates knowledge retrieval and semantic integration across multiple knowledge graphs, while scoring retrieved content from daily routine and life memory graphs to dynamically adjust their retrieval weights for optimized response generation. DEMENTIA-PLAN represents a significant advancement in the clinical application of large language models for dementia care, bridging the gap between AI tools and caregivers interventions. 
+      </p>
+    </div>
+    
+    <div class="keywords" style="margin-bottom: 20px;">
+      <span style="font-weight: bold;">Keywords: </span>
+      <span>Large Language Models, Healthcare, Medical NLP, Clinical Decision Support</span>
+    </div>
+  </div>
+  
+  <div class="research-images" style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    <div class="example-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Example</h4>
+      <img src="images/projects/dementia_example.png" alt="Medical LLM Example" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+    
+    <div class="framework-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Framework</h4>
+      <img src="images/projects/dementia_framework.png" alt="Medical LLM Framework" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="research-container" style="display: flex; margin-top: 30px; align-items: flex-start;">
+  <div class="research-text" style="flex: 1; padding-right: 20px;">
+    <h2>Economic VCG Auction Approach For NOMA Wireless Relay Networks 📱</h2>
+    
+    <div class="abstract" style="margin-bottom: 15px;">
+      <h4 style="margin-bottom: 8px;">Abstract</h4>
+      <p style="text-align: justify;">
+        In Non-Orthogonal Multiple Access (NOMA) wireless networks, base station broadcasts the aggregated contents to all users, where short-distance users have stronger signals compared with long-distance users. Stronger signal users can decode and subtract other weaker users' signals without interference and thus they can forward packets to weaker users as relay devices for better network utilization. In traditional NOMA, the decoded information is simply subtracted from the superposition coded signal and the devices do not take advantage of the cached content. In this paper, inspired by the use it or lose it concept, we propose an economic auction-based NOMA relay approach. The proposed strategy utilizes Vickrey-Clarke-Groves (VCG) auction theory to make the optimal relay-user matching decision based on utility models for base station and relay devices. Through VCG auction, relay devices obtain their maximum utility and user equipment get a better service. Simulation results illustrate the potential performance gain of NOMA relay forwarding with VCG auction mechanism. 
+      </p>
+    </div>
+    
+    <div class="keywords" style="margin-bottom: 20px;">
+      <span style="font-weight: bold;">Keywords: </span>
+      <span>QoE, QoS, Wireless Networks, Multimedia Streaming, Network Optimization</span>
+    </div>
+  </div>
+  
+  <div class="research-images" style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    <div class="example-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Example</h4>
+      <img src="images/projects/vcg_example.png" alt="Wireless QoE Example" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+    
+    <div class="framework-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Framework</h4>
+      <img src="images/projects/vcg_framework.png" alt="Wireless QoE Framework" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<div class="research-container" style="display: flex; margin-top: 30px; align-items: flex-start;">
+  <div class="research-text" style="flex: 1; padding-right: 20px;">
+    <h2>Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach📱</h2>
+    
+    <div class="abstract" style="margin-bottom: 15px;">
+      <h4 style="margin-bottom: 8px;">Abstract</h4>
+      <p style="text-align: justify;">
+        Non-Orthogonal Multiple Access (NOMA), is considered as a potential solution for resource sharing in wireless multimedia networks because of its high spectral efficiency. In this research, we propose a new pricing scheme to uberize the NOMA network between users in the same resource block, leveraging the ride-sharing concept for better NOMA resource allocation. The pricing scheme between different users is similar to the Uber/Lyft ride-sharing system where the driver and passenger make a deal and share the power, time frame and frequency spectrum resource provided by the base station. The NOMA passenger user pays some virtual payment for wireless riding and the NOMA driver user is rewarded for willing to sharing the resource block after paying commission to the base station. The utility functions of users are derived based on the quality of wireless multimedia. The pricing and power allocation strategy is to make both driver and passenger users achieve their maximum utilities by deriving game-theoretic Nash Equilibrium. The simulation results show that the proposed NOMA ubertization game solution has potential improvement of system utility performance comparing with the orthogonal multiple access (OMA) pricing strategy.
+      </p>
+    </div>
+    
+    <div class="keywords" style="margin-bottom: 20px;">
+      <span style="font-weight: bold;">Keywords: </span>
+      <span>QoE, QoS, Wireless Networks, Multimedia Streaming, Network Optimization</span>
+    </div>
+  </div>
+  
+  <div class="research-images" style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    <div class="example-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Example</h4>
+      <img src="images/projects/media.png" alt="Wireless QoE Example" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+    
+    <div class="framework-image">
+      <h4 style="text-align: center; margin-bottom: 10px;">Framework</h4>
+      <img src="images/projects/uber_model.png" alt="Wireless QoE Framework" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+  </div>
+</div>

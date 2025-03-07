@@ -15,6 +15,6 @@ author_profile: true
 
 - **A Use-It-Or-Lose-It Economic VCG Auction Approach For NOMA Wireless Relay Networks.** Y. Song, K. M. K. Ramamoorthy, W. Wang, K. Sohraby. In IEEE COINS 2023.
 
-- **Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach.** Y. Song, W. Wang, K. Sohraby. In IEEE CAMAD 2022 (The best paper award).
+<!-- - **Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach.** Y. Song, W. Wang, K. Sohraby. In IEEE CAMAD 2022 (The best paper award).
 
-- **The identification of influential nodes based on structure similarity.** J. Zhao, Y. Song, F. Liu, Y. Deng. In Connection Science 2020.
+- **The identification of influential nodes based on structure similarity.** J. Zhao, Y. Song, F. Liu, Y. Deng. In Connection Science 2020. -->
