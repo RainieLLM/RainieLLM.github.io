@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
 
 -  **MedSpeak: Knowledge Enhanced ASR Error Correction framework for Spoken Medical Question Answering.** Y. Song, C. Lyu, E. Khatibi P. Zhang, N. Dutt, A. Rahmani. In Submitted to Interspeech 2025.
 

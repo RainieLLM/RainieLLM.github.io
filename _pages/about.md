@@ -42,7 +42,7 @@ Awards and Honors 🏆
 ======
 
 
-ICS Fellowship,  UCI Donald Bren School of Information & Computer 2022 and 2024
-Graduate Research Fellowship,  SDSU 2022 
-The Best Paper Award, IEEE CAMAD 2022 
+- ICS Fellowship,  UCI Donald Bren School of Information & Computer 2022 and 2024
+- Graduate Research Fellowship,  SDSU 2022 
+- The Best Paper Award, IEEE CAMAD 2022 
 
