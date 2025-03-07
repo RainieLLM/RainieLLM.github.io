@@ -40,18 +40,10 @@ Skill 📌
 
 Awards and Honors 🏆 
 ======
-<table width="100%" border="0">
-  <tr>
-    <td align="left">ICS Fellowship</td>
-    <td align="right">UCI Donald Bren School of Information & Computer 2022 and 2024</td>
-  </tr>
-  <tr>
-    <td align="left">Presidential Graduate Research Fellowship</td>
-    <td align="right">SDSU 2022</td>
-  </tr>
-  <tr>
-    <td align="left">The Best Paper Award</td>
-    <td align="right">IEEE CAMAD 2022</td>
-  </tr>
-</table>
+
+| | |
+|:---|---:|
+| ICS Fellowship | UCI Donald Bren School of Information & Computer 2022 and 2024 |
+| Presidential Graduate Research Fellowship | SDSU 2022 |
+| The Best Paper Award | IEEE CAMAD 2022 |
 
